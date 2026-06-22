@@ -1,0 +1,7 @@
+[project]
+name = "theNanGuos"
+version = "0.1.0"
+description = "A group of agents trying to become the best band ever"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
